@@ -188,7 +188,7 @@ msgstr "L'imprimante est déconnectée"
 
 #: pronterface.py:205
 msgid "You cannot set negative temperatures. To turn the hotend off entirely, set its temperature to 0."
-msgstr "Vous ne pouvez pas régler une température négative.Pour éteindre le chauffage de la buse, réglez sa température à 0°c."
+msgstr "Vous ne pouvez pas régler une température négative. Pour éteindre le chauffage de la buse, réglez sa température à 0°c."
 
 #: pronterface.py:207
 #: pronterface.py:228
@@ -443,7 +443,7 @@ msgstr "Ajouter un bouton personnalisé"
 
 #: pronterface.py:776
 msgid "event object missing"
-msgstr "evennement d'objet manquant"
+msgstr "evenement d'objet manquant"
 
 #: pronterface.py:804
 msgid "Invalid period given."
